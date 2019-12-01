@@ -19,3 +19,9 @@ Enable Android developer options:
 Settings-About Phone-Tap Buld Number 7 times.
 
 Install the Expo Android App.
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/alex-levin/rn-first-app.git
+git push -u origin master
